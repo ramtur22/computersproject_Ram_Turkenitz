@@ -137,7 +137,7 @@ def fit_linear(filename):
     graph_plotting(data_dict,a,b,x_title,y_title)
     
 
-print(fit_linear('/inputOutputExamples/input.txt'))
+
     
 
     
